@@ -1,0 +1,1 @@
+{"name": "Le Dojo de Tiphaine", "short_name": "Dojo", "start_url": "./", "display": "standalone", "background_color": "#FFF1F6", "theme_color": "#E8628E", "icons": [{"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}, {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}
